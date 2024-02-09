@@ -1,0 +1,33 @@
+* {
+    border: 1px solid red;
+}
+
+nav {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+  
+  }
+  nav li {
+    list-style-type: none;
+    text-align: left;
+    width: 100%;
+    display: inline;
+    margin-bottom: 20%;
+  }
+
+footer {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    left: 0;
+  }
