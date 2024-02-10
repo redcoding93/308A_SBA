@@ -54,6 +54,7 @@ h1 {
     background-color: maroon;
     border-radius: 5px;
     margin-left: 10px;
+    color: white;
 }
 
 .search-results {
@@ -92,7 +93,20 @@ h1 {
     text-transform: capitalize;
 }
 
-
+#show-more-button {
+    background-color: maroon;
+    font-size: 18px;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    border-radius: 5px;
+    cursor: pointer;
+    /* button is not visible until the user performs a search */
+    display: none; 
+}
 
 
 
