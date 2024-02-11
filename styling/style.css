@@ -6,8 +6,11 @@
 }
 
 body {
-    background: linear-gradient(180deg, hsla(273, 68%, 59%, 1) 0%, hsla(274, 100%, 75%, 1) 30%, hsla(309, 77%, 40%, 1) 61%);
+    background: radial-gradient(circle, hsla(274, 100%, 75%, 1) 37%, hsla(0, 0%, 100%, 1) 58%, hsla(272, 63%, 46%, 1) 78%);
 
+}
+h2 {
+    margin-bottom: 5%;
 }
 
 nav {
