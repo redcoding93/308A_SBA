@@ -5,9 +5,6 @@ A single page websie that searches for any picture that is entered into the sear
 
 ## Features
 
-- Responsive to various screen sizes
-- Single page web application
-- Cross platform
 | Requirement | Weight |
 | --- | --- |
 | Use the fetch API or Axios to communicate with an external web API. Use the data provided by this API to populate your application’s content and features. | 20% |
